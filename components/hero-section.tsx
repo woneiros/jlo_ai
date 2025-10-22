@@ -40,9 +40,9 @@ export function HeroSection() {
             </h1>
             <div className="space-y-4 text-lg leading-relaxed text-foreground/90">
               <p>
-                I&apos;m a user-centric AI product and research professional
-                with 15+ years of experience at companies like{" "}
-                <span className="font-medium">Grammarly</span>,{" "}
+                I&apos;m a user-centric AI product and research strategist with
+                15+ years translating customer insights into shipped products at
+                scale at <span className="font-medium">Grammarly</span>,{" "}
                 <span className="font-medium">Uber</span>, and{" "}
                 <span className="font-medium">SK Telecom</span>.
               </p>
